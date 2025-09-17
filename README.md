@@ -1,1 +1,2 @@
 # HR_ATTRITION_ANALYSIS_DASHBOARD
+This HR Dashboard gives a clear view of workforce data for better decision-making. It tracks headcount, hiring, attrition, and attendance, helping HR monitor workforce changes. Performance, training, and engagement metrics highlight employee growth and satisfaction. Compensation, diversity, and career growth insights support strategic planning. Ideal for HR leaders and executives who want quick, data-driven decisions.
